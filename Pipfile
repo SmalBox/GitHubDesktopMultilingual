@@ -1,0 +1,13 @@
+[[source]]
+url = "http://mirrors.aliyun.com/pypi/simple/"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pywin32 = "*"
+pyinstaller = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

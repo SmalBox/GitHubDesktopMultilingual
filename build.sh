@@ -1,0 +1,1 @@
+pyinstaller.exe -F ./Multilingual.py -p ./WinGetAppPath.py --icon=./logo.ico
